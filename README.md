@@ -2,5 +2,7 @@
 A basic todo-list web app in vanilla JS using:
 * webpack
 * webpack-dev-server
+* html-webpack-plugin
 * css-loader and style-loader
-* initialized with npm init
+
+Initialized with npm init
